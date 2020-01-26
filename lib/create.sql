@@ -1,5 +1,6 @@
 CREATE TABLE bears (
   name TEXT,
   age INTEGER,
-  gender TEXT
+  gender TEXT,
+  color TEXT
 );
